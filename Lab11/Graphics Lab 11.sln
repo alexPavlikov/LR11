@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics Lab 11", "Graphics Lab 11\Graphics Lab 11.csproj", "{1DB96913-AF83-4D11-B712-6DB95A39BDB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genplot", "Genplot\Genplot.csproj", "{EE71EBAB-5C9E-48A7-9698-259F3C95816E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB96913-AF83-4D11-B712-6DB95A39BDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB96913-AF83-4D11-B712-6DB95A39BDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB96913-AF83-4D11-B712-6DB95A39BDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB96913-AF83-4D11-B712-6DB95A39BDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE71EBAB-5C9E-48A7-9698-259F3C95816E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE71EBAB-5C9E-48A7-9698-259F3C95816E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE71EBAB-5C9E-48A7-9698-259F3C95816E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE71EBAB-5C9E-48A7-9698-259F3C95816E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC4A783-A356-48FC-95B2-D4DB7676B0D8}
+	EndGlobalSection
+EndGlobal
